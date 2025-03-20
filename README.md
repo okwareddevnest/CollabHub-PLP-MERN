@@ -1,4 +1,3 @@
----
 
 # 🚀 CollabHub  
 A full-stack collaborative platform built with the MERN stack, featuring:  
@@ -10,7 +9,6 @@ A full-stack collaborative platform built with the MERN stack, featuring:
 - ✅ Express + MongoDB backend  
 - ✅ Clean CI/CD support and deployable on Render (backend) and Vercel (frontend)  
 
----
 
 ## 📁 Project Structure
 ```
